@@ -2,13 +2,14 @@
 
 ## Corvus v8.5
 ### Device
-- Fixed defaukt sim switching issue after reboot.
+- Fixed default sim switching issue after reboot.
 - Fixed sim can't be disabled issue
 - Added Oneplus Screenrecorder and removed the default lineage screen recorder.
 - Fixed some wrong overlays.
 - Optimized scrolling.
 - Fixed google meet mic issue
 - Fixed some random system overlays
+
 ### Source
 - Version bumped to 8.5-Sage
 - Added Quick QS Brightness Slider
