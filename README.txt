@@ -1,3 +1,3 @@
-https://kumarsujita6.github.io
+https://sujit.works
 
 website based on github.
