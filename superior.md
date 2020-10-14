@@ -1,5 +1,11 @@
 # Realme 2 Pro RMX1801
-## 04 Octobet 2020 Changelogs
+## 14 October 2020 Changelogs
+- Fixed SafetyNet (No need to flash any module just turn on magisk Hide)
+- Source Upstreamed To latest October Security Patch
+- Fixed almost all known Bugs ( if u face any bugs u can report in telegram channel)
+- Improved system smoothness
+- Many more underhood changes.
+## 04 October 2020 Changelogs
 - Initial A11 Build
 - If u face any bug u can report in @realme2proxda telegram group eith logs
 - As it's a beta release it may contain some bugs so don't spam for it.
